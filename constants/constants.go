@@ -20,5 +20,7 @@ func main()  {
 	// A numeric constant has no type until it's given one by an explicit cast.
 	fmt.Println(int64(d))
 
+	// A number can be given a type by using it in a context that requires one.
+	// Here n is casted to float64 explicitly
 	fmt.Println(math.Sin(n))
 }
