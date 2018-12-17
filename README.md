@@ -43,7 +43,7 @@ hello world
 
 - [ ] [Slices]("https://gobyexample.com/slices")
 
-- [] [Maps]("https://gobyexample.com/maps")
+- [ ] [Maps]("https://gobyexample.com/maps")
 
 - [ ] [Range]("https://gobyexample.com/range")
 
