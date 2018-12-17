@@ -37,64 +37,120 @@ hello world
 
 - [x] [if/Else](https://gobyexample.com/if-else)
 
-- [ ] [Switch]("ttps://gobyexample.com/switch")
+- [ ] [Switch]("https://gobyexample.com/switch")
 
 - [ ] [Array]("https://gobyexample.com/arrays")
 
 - [ ] [Slices]("https://gobyexample.com/slices")
-        <li><a href="https://gobyexample.com/maps">Maps</a></li>
-        <li><a href="https://gobyexample.com/range">Range</a></li>
-        <li><a href="https://gobyexample.com/functions">Functions</a></li>
-        <li><a href="https://gobyexample.com/multiple-return-values">Multiple Return Values</a></li>
-        <li><a href="https://gobyexample.com/variadic-functions">Variadic Functions</a></li>
-        <li><a href="https://gobyexample.com/closures">Closures</a></li>
-        <li><a href="https://gobyexample.com/recursion">Recursion</a></li>
-        <li><a href="https://gobyexample.com/pointers">Pointers</a></li>
-        <li><a href="https://gobyexample.com/structs">Structs</a></li>
-        <li><a href="https://gobyexample.com/methods">Methods</a></li>
-        <li><a href="https://gobyexample.com/interfaces">Interfaces</a></li>
-        <li><a href="https://gobyexample.com/errors">Errors</a></li>
-        <li><a href="https://gobyexample.com/goroutines">Goroutines</a></li>
-        <li><a href="https://gobyexample.com/channels">Channels</a></li>
-        <li><a href="https://gobyexample.com/channel-buffering">Channel Buffering</a></li>
-        <li><a href="https://gobyexample.com/channel-synchronization">Channel Synchronization</a></li>
-        <li><a href="https://gobyexample.com/channel-directions">Channel Directions</a></li>
-        <li><a href="https://gobyexample.com/select">Select</a></li>
-        <li><a href="https://gobyexample.com/timeouts">Timeouts</a></li>
-        <li><a href="https://gobyexample.com/non-blocking-channel-operations">Non-Blocking Channel Operations</a></li>
-        <li><a href="https://gobyexample.com/closing-channels">Closing Channels</a></li>
-        <li><a href="https://gobyexample.com/range-over-channels">Range over Channels</a></li>
-        <li><a href="https://gobyexample.com/timers">Timers</a></li>
-        <li><a href="https://gobyexample.com/tickers">Tickers</a></li>
-        <li><a href="https://gobyexample.com/worker-pools">Worker Pools</a></li>
-        <li><a href="https://gobyexample.com/rate-limiting">Rate Limiting</a></li>
-        <li><a href="https://gobyexample.com/atomic-counters">Atomic Counters</a></li>
-        <li><a href="https://gobyexample.com/mutexes">Mutexes</a></li>
-        <li><a href="https://gobyexample.com/stateful-goroutines">Stateful Goroutines</a></li>
-        <li><a href="https://gobyexample.com/sorting">Sorting</a></li>
-        <li><a href="https://gobyexample.com/sorting-by-functions">Sorting by Functions</a></li>
-        <li><a href="https://gobyexample.com/panic">Panic</a></li>
-        <li><a href="https://gobyexample.com/defer">Defer</a></li>
-        <li><a href="https://gobyexample.com/collection-functions">Collection Functions</a></li>
-        <li><a href="https://gobyexample.com/string-functions">String Functions</a></li>
-        <li><a href="https://gobyexample.com/string-formatting">String Formatting</a></li>
-        <li><a href="https://gobyexample.com/regular-expressions">Regular Expressions</a></li>
-        <li><a href="https://gobyexample.com/json">JSON</a></li>
-        <li><a href="https://gobyexample.com/time">Time</a></li>
-        <li><a href="https://gobyexample.com/epoch">Epoch</a></li>
-        <li><a href="https://gobyexample.com/time-formatting-parsing">Time Formatting / Parsing</a></li>
-        <li><a href="https://gobyexample.com/random-numbers">Random Numbers</a></li>
-        <li><a href="https://gobyexample.com/number-parsing">Number Parsing</a></li>
-        <li><a href="https://gobyexample.com/url-parsing">URL Parsing</a></li>
-        <li><a href="https://gobyexample.com/sha1-hashes">SHA1 Hashes</a></li>
-        <li><a href="https://gobyexample.com/base64-encoding">Base64 Encoding</a></li>
-        <li><a href="https://gobyexample.com/reading-files">Reading Files</a></li>
-        <li><a href="https://gobyexample.com/writing-files">Writing Files</a></li>
-        <li><a href="https://gobyexample.com/line-filters">Line Filters</a></li>
-        <li><a href="https://gobyexample.com/command-line-arguments">Command-Line Arguments</a></li>
-        <li><a href="https://gobyexample.com/command-line-flags">Command-Line Flags</a></li>
-        <li><a href="https://gobyexample.com/environment-variables">Environment Variables</a></li>
-        <li><a href="https://gobyexample.com/spawning-processes">Spawning Processes</a></li>
-        <li><a href="https://gobyexample.com/execing-processes">Exec'ing Processes</a></li>
-        <li><a href="https://gobyexample.com/signals">Signals</a></li>
-        <li><a href="https://gobyexample.com/exit">Exit</a></li>
+
+- [] [Maps]("https://gobyexample.com/maps")
+
+- [ ] [Range]("https://gobyexample.com/range")
+
+- [ ] [Functions]("https://gobyexample.com/functions")
+
+- [ ] [Multiple Return Values]("https://gobyexample.com/multiple-return-values")
+
+- [ ] [Variadic Functions]("https://gobyexample.com/variadic-functions")
+
+- [ ] [Closures]("https://gobyexample.com/closures">)
+
+- [ ] [Recursion]("https://gobyexample.com/recursion")
+
+- [ ] [Pointers]("https://gobyexample.com/pointers")
+
+- [ ] [Structs]("https://gobyexample.com/structs")
+
+- [ ] [Methods]("https://gobyexample.com/methods")
+
+- [ ] [Interfaces]("https://gobyexample.com/interfaces")
+
+- [ ] [Errors]("https://gobyexample.com/errors")
+
+- [ ] [Goroutines]("https://gobyexample.com/goroutines")
+
+- [ ] [Channels]("https://gobyexample.com/channels")
+
+- [ ] [Channel Buffering]("https://gobyexample.com/channel-buffering")
+
+- [ ] [Channel Synchronization]("https://gobyexample.com/channel-synchronization")
+
+- [ ] [Channel Directions]("https://gobyexample.com/channel-directions")
+
+- [ ] [Select]("https://gobyexample.com/select")
+
+- [ ] [Timeouts]("https://gobyexample.com/timeouts")
+
+- [ ] [Non-Blocking Channel Operations]("https://gobyexample.com/non-blocking-channel-operations")
+
+- [ ] [Closing Channels]("https://gobyexample.com/closing-channels")
+
+- [ ] [Range over Channels]("https://gobyexample.com/range-over-channels")
+
+- [ ] [Timers]("https://gobyexample.com/timers")
+
+- [ ] [Tickers]("https://gobyexample.com/tickers")
+
+- [ ] [Worker Pools]("https://gobyexample.com/worker-pools")
+
+- [ ] [Rate Limiting]("https://gobyexample.com/rate-limiting")
+
+- [ ] [Atomic Counters]("https://gobyexample.com/atomic-counters")
+
+- [ ] [Mutexes]("https://gobyexample.com/mutexes")
+
+- [ ] [Stateful Goroutines]("https://gobyexample.com/stateful-goroutines")
+
+- [ ] [Sorting]("https://gobyexample.com/sorting")
+
+- [ ] [Sorting by Functions]("https://gobyexample.com/sorting-by-functions")
+
+- [ ] [Panic]("https://gobyexample.com/panic")
+
+- [ ] [Defer]("https://gobyexample.com/defer")
+
+- [ ] [Collection Functions]("https://gobyexample.com/collection-functions")
+
+- [ ] [String Functions]("https://gobyexample.com/string-functions")
+
+- [ ] [String Formatting]("https://gobyexample.com/string-formatting")
+
+- [ ] [Regular Expressions]("https://gobyexample.com/regular-expressions")
+
+- [ ] [JSON]("https://gobyexample.com/json")
+
+- [ ] [Time]("https://gobyexample.com/time")
+
+- [ ] [Epoch]("https://gobyexample.com/epoch")
+
+- [ ] [Time Formatting / Parsing]("https://gobyexample.com/time-formatting-parsing")
+
+- [ ] [Random Numbers]("https://gobyexample.com/random-numbers")
+
+- [ ] [Number Parsing]("https://gobyexample.com/number-parsing")
+
+- [ ] [URL Parsing]("https://gobyexample.com/url-parsing")
+
+- [ ] [SHA1 Hashes]("https://gobyexample.com/sha1-hashes")
+
+- [ ] [Base64 Encoding]("https://gobyexample.com/base64-encoding")
+
+- [ ] [Reading Files]("https://gobyexample.com/reading-files")
+
+- [ ] [Writing Files]("https://gobyexample.com/writing-files")
+
+- [ ] [Line Filters]("https://gobyexample.com/line-filters")
+
+- [ ] [Command-Line Arguments]("https://gobyexample.com/command-line-arguments")
+
+- [ ] [Command-Line Flags]("https://gobyexample.com/command-line-flags")
+
+- [ ] [Environment Variables]("https://gobyexample.com/environment-variables")
+
+- [ ] [Spawning Processes]("https://gobyexample.com/spawning-processes")
+
+- [ ] [Exec'ing Processe]("https://gobyexample.com/execing-processes")
+
+- [ ] [Signals]("https://gobyexample.com/signals")
+
+- [ ] [Exit]("https://gobyexample.com/exit")
