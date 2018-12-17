@@ -6,10 +6,10 @@ import (
 )
 
 // `const` declares a constant value.
-// It can appear anywhere in a `var` statement can.
+// It can appear anywhere a `var` statement can.
 const s string = "constant"
 
-func main()  {
+func main() {
 	fmt.Println(s)
 
 	const n = 500000000

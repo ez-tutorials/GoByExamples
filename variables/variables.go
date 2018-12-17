@@ -8,7 +8,8 @@ import "fmt"
 //Variables value is default to `zero`.
 //`:=` syntax is shorthand for declaring and initializing a variable.
 
-func main()  {
+func main() {
+	// var delares 1 or more variables
 	var a = "initial"
 	fmt.Println(a)
 
@@ -18,9 +19,11 @@ func main()  {
 	var d = true
 	fmt.Println(d)
 
+	// Variables declared without a corresponding initialization are zero-valued.
 	var e int
 	fmt.Println(e)
 
+	// The := syntax is shorthand for declaring and initializing a variable
 	f := "short"
 	fmt.Println(f)
 }

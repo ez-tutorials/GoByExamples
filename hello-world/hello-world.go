@@ -20,8 +20,6 @@ import "fmt"
 //go run hello-world.go
 //```
 
-
-func main()  {
+func main() {
 	fmt.Println("hello world")
-
 }
