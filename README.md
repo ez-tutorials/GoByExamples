@@ -1,156 +1,156 @@
 # [Golang Practices by Examples](https://gobyexample.com)
-****
 
 [Go](http://golang.org/) is an open source programming language designed for building simple, fast, and reliable software.
 Go by Example is a hands-on introduction to Go using annotated example programs.
 
 - [x] [hello-world](https://gobyexample.com/hello-world)
-To run the program, put the code in hello-world.go and use go run.	
 
-```sh
-$ go run hello-world.go
-hello world
-```
+        To run the program, put the code in hello-world.go and use go run.
 
-Sometimes we’ll want to build our programs into binaries. We can do this using go build.	
+        ```sh
+        $ go run hello-world.go
+        hello world
+        ```
 
-```sh
-$ go build hello-world.go
-$ ls
-hello-world	hello-world.go
-```
+        Sometimes we’ll want to build our programs into binaries. We can do this using go build.
 
-We can then execute the built binary directly.
+        ```sh
+        $ go build hello-world.go
+        $ ls
+        hello-world hello-world.go
+        ```
 
-```sh
-$ ./hello-world
-hello world
-```
+        We can then execute the built binary directly.
 
-- [x] [values](https://gobyexample.com/values)
+        ```sh
+        $ ./hello-world
+        hello world
+        ```
 
-- [x] [variables](https://gobyexample.com/variables)
+- [x] [Values](https://gobyexample.com/values)
 
-- [x] [constants](https://gobyexample.com/constants)
+- [x] [Variables](https://gobyexample.com/variables)
 
-- [x] [for](https://gobyexample.com/for)
+- [x] [Constants](https://gobyexample.com/constants)
 
-- [x] [if/Else](https://gobyexample.com/if-else)
+- [x] [For](https://gobyexample.com/for)
 
-- [ ] [Switch]("https://gobyexample.com/switch")
+- [x] [If/Else](https://gobyexample.com/if-else)
 
-- [ ] [Array]("https://gobyexample.com/arrays")
+- [ ] [Switch](https://gobyexample.com/switch)
 
-- [ ] [Slices]("https://gobyexample.com/slices")
+- [ ] [Array](https://gobyexample.com/arrays)
 
-- [ ] [Maps]("https://gobyexample.com/maps")
+- [ ] [Slices](https://gobyexample.com/slices)
 
-- [ ] [Range]("https://gobyexample.com/range")
+- [ ] [Maps](https://gobyexample.com/maps)
 
-- [ ] [Functions]("https://gobyexample.com/functions")
+- [ ] [Range](https://gobyexample.com/range)
 
-- [ ] [Multiple Return Values]("https://gobyexample.com/multiple-return-values")
+- [ ] [Functions](https://gobyexample.com/functions)
 
-- [ ] [Variadic Functions]("https://gobyexample.com/variadic-functions")
+- [ ] [Multiple Return Values](https://gobyexample.com/multiple-return-values)
 
-- [ ] [Closures]("https://gobyexample.com/closures">)
+- [ ] [Variadic Functions](https://gobyexample.com/variadic-functions)
 
-- [ ] [Recursion]("https://gobyexample.com/recursion")
+- [ ] [Closures](https://gobyexample.com/closures>)
 
-- [ ] [Pointers]("https://gobyexample.com/pointers")
+- [ ] [Recursion](https://gobyexample.com/recursion)
 
-- [ ] [Structs]("https://gobyexample.com/structs")
+- [ ] [Pointers](https://gobyexample.com/pointers)
 
-- [ ] [Methods]("https://gobyexample.com/methods")
+- [ ] [Structs](https://gobyexample.com/structs)
 
-- [ ] [Interfaces]("https://gobyexample.com/interfaces")
+- [ ] [Methods](https://gobyexample.com/methods)
 
-- [ ] [Errors]("https://gobyexample.com/errors")
+- [ ] [Interfaces](https://gobyexample.com/interfaces)
 
-- [ ] [Goroutines]("https://gobyexample.com/goroutines")
+- [ ] [Errors](https://gobyexample.com/errors)
 
-- [ ] [Channels]("https://gobyexample.com/channels")
+- [ ] [Goroutines](https://gobyexample.com/goroutines)
 
-- [ ] [Channel Buffering]("https://gobyexample.com/channel-buffering")
+- [ ] [Channels](https://gobyexample.com/channels)
 
-- [ ] [Channel Synchronization]("https://gobyexample.com/channel-synchronization")
+- [ ] [Channel Buffering](https://gobyexample.com/channel-buffering)
 
-- [ ] [Channel Directions]("https://gobyexample.com/channel-directions")
+- [ ] [Channel Synchronization](https://gobyexample.com/channel-synchronization)
 
-- [ ] [Select]("https://gobyexample.com/select")
+- [ ] [Channel Directions](https://gobyexample.com/channel-directions)
 
-- [ ] [Timeouts]("https://gobyexample.com/timeouts")
+- [ ] [Select](https://gobyexample.com/select)
 
-- [ ] [Non-Blocking Channel Operations]("https://gobyexample.com/non-blocking-channel-operations")
+- [ ] [Timeouts](https://gobyexample.com/timeouts)
 
-- [ ] [Closing Channels]("https://gobyexample.com/closing-channels")
+- [ ] [Non-Blocking Channel Operations](https://gobyexample.com/non-blocking-channel-operations)
 
-- [ ] [Range over Channels]("https://gobyexample.com/range-over-channels")
+- [ ] [Closing Channels](https://gobyexample.com/closing-channels)
 
-- [ ] [Timers]("https://gobyexample.com/timers")
+- [ ] [Range over Channels](https://gobyexample.com/range-over-channels)
 
-- [ ] [Tickers]("https://gobyexample.com/tickers")
+- [ ] [Timers](https://gobyexample.com/timers)
 
-- [ ] [Worker Pools]("https://gobyexample.com/worker-pools")
+- [ ] [Tickers](https://gobyexample.com/tickers)
 
-- [ ] [Rate Limiting]("https://gobyexample.com/rate-limiting")
+- [ ] [Worker Pools](https://gobyexample.com/worker-pools)
 
-- [ ] [Atomic Counters]("https://gobyexample.com/atomic-counters")
+- [ ] [Rate Limiting](https://gobyexample.com/rate-limiting)
 
-- [ ] [Mutexes]("https://gobyexample.com/mutexes")
+- [ ] [Atomic Counters](https://gobyexample.com/atomic-counters)
 
-- [ ] [Stateful Goroutines]("https://gobyexample.com/stateful-goroutines")
+- [ ] [Mutexes](https://gobyexample.com/mutexes)
 
-- [ ] [Sorting]("https://gobyexample.com/sorting")
+- [ ] [Stateful Goroutines](https://gobyexample.com/stateful-goroutines)
 
-- [ ] [Sorting by Functions]("https://gobyexample.com/sorting-by-functions")
+- [ ] [Sorting](https://gobyexample.com/sorting)
 
-- [ ] [Panic]("https://gobyexample.com/panic")
+- [ ] [Sorting by Functions](https://gobyexample.com/sorting-by-functions)
 
-- [ ] [Defer]("https://gobyexample.com/defer")
+- [ ] [Panic](https://gobyexample.com/panic)
 
-- [ ] [Collection Functions]("https://gobyexample.com/collection-functions")
+- [ ] [Defer](https://gobyexample.com/defer)
 
-- [ ] [String Functions]("https://gobyexample.com/string-functions")
+- [ ] [Collection Functions](https://gobyexample.com/collection-functions)
 
-- [ ] [String Formatting]("https://gobyexample.com/string-formatting")
+- [ ] [String Functions](https://gobyexample.com/string-functions)
 
-- [ ] [Regular Expressions]("https://gobyexample.com/regular-expressions")
+- [ ] [String Formatting](https://gobyexample.com/string-formatting)
 
-- [ ] [JSON]("https://gobyexample.com/json")
+- [ ] [Regular Expressions](https://gobyexample.com/regular-expressions)
 
-- [ ] [Time]("https://gobyexample.com/time")
+- [ ] [JSON](https://gobyexample.com/json)
 
-- [ ] [Epoch]("https://gobyexample.com/epoch")
+- [ ] [Time](https://gobyexample.com/time)
 
-- [ ] [Time Formatting / Parsing]("https://gobyexample.com/time-formatting-parsing")
+- [ ] [Epoch](https://gobyexample.com/epoch)
 
-- [ ] [Random Numbers]("https://gobyexample.com/random-numbers")
+- [ ] [Time Formatting / Parsing](https://gobyexample.com/time-formatting-parsing)
 
-- [ ] [Number Parsing]("https://gobyexample.com/number-parsing")
+- [ ] [Random Numbers](https://gobyexample.com/random-numbers)
 
-- [ ] [URL Parsing]("https://gobyexample.com/url-parsing")
+- [ ] [Number Parsing](https://gobyexample.com/number-parsing)
 
-- [ ] [SHA1 Hashes]("https://gobyexample.com/sha1-hashes")
+- [ ] [URL Parsing](https://gobyexample.com/url-parsing)
 
-- [ ] [Base64 Encoding]("https://gobyexample.com/base64-encoding")
+- [ ] [SHA1 Hashes](https://gobyexample.com/sha1-hashes)
 
-- [ ] [Reading Files]("https://gobyexample.com/reading-files")
+- [ ] [Base64 Encoding](https://gobyexample.com/base64-encoding)
 
-- [ ] [Writing Files]("https://gobyexample.com/writing-files")
+- [ ] [Reading Files](https://gobyexample.com/reading-files)
 
-- [ ] [Line Filters]("https://gobyexample.com/line-filters")
+- [ ] [Writing Files](https://gobyexample.com/writing-files)
 
-- [ ] [Command-Line Arguments]("https://gobyexample.com/command-line-arguments")
+- [ ] [Line Filters](https://gobyexample.com/line-filters)
 
-- [ ] [Command-Line Flags]("https://gobyexample.com/command-line-flags")
+- [ ] [Command-Line Arguments](https://gobyexample.com/command-line-arguments)
 
-- [ ] [Environment Variables]("https://gobyexample.com/environment-variables")
+- [ ] [Command-Line Flags](https://gobyexample.com/command-line-flags)
 
-- [ ] [Spawning Processes]("https://gobyexample.com/spawning-processes")
+- [ ] [Environment Variables](https://gobyexample.com/environment-variables)
 
-- [ ] [Exec'ing Processe]("https://gobyexample.com/execing-processes")
+- [ ] [Spawning Processes](https://gobyexample.com/spawning-processes)
 
-- [ ] [Signals]("https://gobyexample.com/signals")
+- [ ] [Exec'ing Processe](https://gobyexample.com/execing-processes)
 
-- [ ] [Exit]("https://gobyexample.com/exit")
+- [ ] [Signals](https://gobyexample.com/signals)
+
+- [ ] [Exit](https://gobyexample.com/exit)
