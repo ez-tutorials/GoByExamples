@@ -5,14 +5,14 @@ Go by Example is a hands-on introduction to Go using annotated example programs.
 
 - [x] [hello-world](https://gobyexample.com/hello-world)
 
-        To run the program, put the code in hello-world.go and use go run.
+To run the program, put the code in hello-world.go and use go run.
 
-        ```sh
+        ```bash
         $ go run hello-world.go
         hello world
         ```
 
-        Sometimes we’ll want to build our programs into binaries. We can do this using go build.
+Sometimes we’ll want to build our programs into binaries. We can do this using go build.
 
         ```sh
         $ go build hello-world.go
@@ -20,7 +20,7 @@ Go by Example is a hands-on introduction to Go using annotated example programs.
         hello-world hello-world.go
         ```
 
-        We can then execute the built binary directly.
+We can then execute the built binary directly.
 
         ```sh
         $ ./hello-world
