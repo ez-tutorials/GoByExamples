@@ -47,7 +47,7 @@ We can then execute the built binary directly.
 
 - [x] [Range](https://gobyexample.com/range)
 
-- [ ] [Functions](https://gobyexample.com/functions)
+- [x] [Functions](https://gobyexample.com/functions)
 
 - [ ] [Multiple Return Values](https://gobyexample.com/multiple-return-values)
 
