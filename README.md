@@ -43,7 +43,7 @@ We can then execute the built binary directly.
 
 - [x] [Slices](https://gobyexample.com/slices)
 
-- [ ] [Maps](https://gobyexample.com/maps)
+- [x] [Maps](https://gobyexample.com/maps)
 
 - [ ] [Range](https://gobyexample.com/range)
 
