@@ -37,11 +37,11 @@ We can then execute the built binary directly.
 
 - [x] [If/Else](https://gobyexample.com/if-else)
 
-- [ ] [Switch](https://gobyexample.com/switch)
+- [x] [Switch](https://gobyexample.com/switch)
 
-- [ ] [Array](https://gobyexample.com/arrays)
+- [x] [Array](https://gobyexample.com/arrays)
 
-- [ ] [Slices](https://gobyexample.com/slices)
+- [x] [Slices](https://gobyexample.com/slices)
 
 - [ ] [Maps](https://gobyexample.com/maps)
 
