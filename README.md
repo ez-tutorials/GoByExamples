@@ -49,21 +49,21 @@ We can then execute the built binary directly.
 
 - [x] [Functions](https://gobyexample.com/functions)
 
-- [ ] [Multiple Return Values](https://gobyexample.com/multiple-return-values)
+- [x] [Multiple Return Values](https://gobyexample.com/multiple-return-values)
 
-- [ ] [Variadic Functions](https://gobyexample.com/variadic-functions)
+- [x] [Variadic Functions](https://gobyexample.com/variadic-functions)
 
-- [ ] [Closures](https://gobyexample.com/closures>)
+- [x] [Closures](https://gobyexample.com/closures>)
 
-- [ ] [Recursion](https://gobyexample.com/recursion)
+- [x] [Recursion](https://gobyexample.com/recursion)
 
-- [ ] [Pointers](https://gobyexample.com/pointers)
+- [x] [Pointers](https://gobyexample.com/pointers)
 
-- [ ] [Structs](https://gobyexample.com/structs)
+- [x] [Structs](https://gobyexample.com/structs)
 
-- [ ] [Methods](https://gobyexample.com/methods)
+- [x] [Methods](https://gobyexample.com/methods)
 
-- [ ] [Interfaces](https://gobyexample.com/interfaces)
+- [x] [Interfaces](https://gobyexample.com/interfaces)
 
 - [ ] [Errors](https://gobyexample.com/errors)
 
