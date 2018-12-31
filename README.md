@@ -65,11 +65,11 @@ We can then execute the built binary directly.
 
 - [x] [Interfaces](https://gobyexample.com/interfaces)
 
-- [ ] [Errors](https://gobyexample.com/errors)
+- [x] [Errors](https://gobyexample.com/errors)
 
-- [ ] [Goroutines](https://gobyexample.com/goroutines)
+- [x] [Goroutines](https://gobyexample.com/goroutines)
 
-- [ ] [Channels](https://gobyexample.com/channels)
+- [x] [Channels](https://gobyexample.com/channels)
 
 - [ ] [Channel Buffering](https://gobyexample.com/channel-buffering)
 
